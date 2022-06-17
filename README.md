@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eaglegazii" alt="eaglegazii" /></a> </p>
 
-<pre align="center">
+<img src="https://avatars.githubusercontent.com/u/22417510?s=400&u=a1cb0db17cef0ce4cd16099e8c9542d80d97f7b7&v=4" alt="Gazi profile photo"/>
 - 🌱 I’m currently learning **PHP Symfony**
 
 - 💬 Ask me about **php, javascript, nodeJs, java**
@@ -12,7 +12,6 @@
 
 - ⚡ Fun fact **I think I am funny**
 
- </pre>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gazmorabdiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gazmorabdiu" height="30" width="40" /></a>
