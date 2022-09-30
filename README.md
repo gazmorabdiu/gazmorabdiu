@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gazmor</h1>
-<h3 align="center">A passionate backend developer from Albania</h3>
+<h3 align="center">A passionate backend developer</h3>
 
-<p align="center"><img src="https://avatars.githubusercontent.com/u/22417510?s=400&u=a1cb0db17cef0ce4cd16099e8c9542d80d97f7b7&v=4" alt="Gazi profile photo" style="width:200px;height:200px" /></p>
+<p align="center"><img src="https://avatars.githubusercontent.com/u/22417510?s=400&u=a1cb0db17cef0ce4cd16099e8c9542d80d97f7b7&v=4" alt="Gazi profile photo" style="width:200px;height:200px;" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eaglegazii" alt="eaglegazii" /></a> </p>
 
 
@@ -18,8 +18,126 @@
 <a href="https://linkedin.com/in/gazmorabdiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gazmorabdiu" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eaglegazii&show_icons=true&locale=en&layout=compact" alt="eaglegazii" /></p>
+<h3 align="left">Programming Languages: </h3>
+
+<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript" width="40" height="40"/> </a> <a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png?20180502235434" alt="php" width="80" height="40"/></a> <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/320px-Java_programming_language_logo.svg.png" alt="Java" width="30" height="40"/> </a> <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c-programming" width="40" height="40"/> </a> <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="pyhton" width="40" height="40"/></a> <a href="https://www.ruby-lang.org/en/documentation/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/800px-Ruby_logo.svg.png" alt="ruby" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c-sharp-programming" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="40" height="40"/> </a> <a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1024px-Markdown-mark.svg.png" alt="markdown" width="40" height="40"/></a> <a href="https://www.overleaf.com/learn" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/nrgyaltdicpt/2OlBbaO7oEFSmTVpreHlkb/66a1b6eb1a10b372557ddbdd0e7099c7/ologo_square_colour_green_bg.png" alt="latex-overleaf" width="40" height="40"/></a> </p>
+  
+  
+
+<h3 align="left">Frameworks, Platforms & Libraries:</h3>
+
+
+
+ <p align="left">  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1024px-Node.js_logo.svg.png" alt="nodejs" width="60" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  <a href="https://symfony.com/doc/current/index.html" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.png" alt="symfony" width="40" height="40"/> </a>   <a href="https://laravel.com/docs/9.x/installation" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" alt="laravel" width="40" height="40"/> </a> <a href="https://docs.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="anaconda" width="60" height="40"/> </a>  <a href="https://docs.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1920px-Npm-logo.svg.png" alt="npm" width="60" height="40"/> </a> <a href="https://getcomposer.org/doc/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-composer-transparent.png" alt="composer" width="40" height="40"/> </a> <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="bootstrap" width="50" height="40"/> </a> 
+  
+  <p>
+  
+<h3 align="left">Databases:</h3>
+<p align="left><a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1920px-MongoDB_Logo.svg.png" alt="mongodb" width="100" height="40"/> </a> <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/800px-MySQL_logo.svg.png" alt="mysql" width="60" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" alt="mocrosoft-sql-server" width="60" height="40"/> </a>
+
+</p>
+
+<h3 align="left">Machine and Deep Learning:</h3><p align="left"> <a href="https://numpy.org/doc/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" alt="numpy" width="80" height="40"/> </a> <a href="https://pandas.pydata.org/docs/reference/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1920px-Pandas_logo.svg.png" alt="pandas" width="80" height="40"/> </a> <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="80" height="40"/> </a>
+
+</p>
+
+<h3 align="left">Others:</h3> <p align="left"> <a href="https://www.postman.com/api-documentation-tool/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="postman" width="100" height="40"/> </a> <a href="https://confluence.atlassian.com/jira061" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jira_%28Software%29_logo.svg/1920px-Jira_%28Software%29_logo.svg.png" alt="jira" width="120" height="40"/> </a> <a href="https://eslint.org/docs/latest/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/800px-ESLint_logo.svg.png" alt="eslint" width="40" height="40"/> </a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Canva_Logo.png/1920px-Canva_Logo.png" alt="canva" width="80" height="40"/> </a>
+
+
+</p>
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=eaglegazii&show_icons=true&locale=en" alt="eaglegazii" /></p>
+
+
+
+<h3 align="left">Languages:</h3>
+<table>
+  <tr>
+    <th></th>
+    <th>Level</th>    
+  </tr>
+  <tr>
+    <td>Albanian (Native)</td>
+    <td>✅✅✅✅✅✅</td>    
+  </tr>
+  <tr>
+    <td>Turkish (C1)</td>
+    <td>✅✅✅✅✅🔲</td>    
+  </tr>
+  <tr>
+    <td>English</td>
+    <td>✅✅✅🔲🔲🔲</td>    
+  </tr>
+</table>
+
+
+<h3 align="left">Certifications:</h3>
+
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Description</th> 
+    <th>Link</th>    
+  </tr>
+  
+   <tr>
+    <td>The Modern Javascript Bootcamp Course (2022) </td>
+    <td>An online course in udemy by Colt Steele, Stephen Grider</td>
+    <td><a href="https://www.udemy.com/certificate/UC-1fc30246-2ad2-42b7-8ce5-b1036bac7371/">Udemy</a></td>    
+    
+  </tr>
+     <tr>
+    <td>Interactivity with JavaScript</td>
+    <td>An online non-credit course authorized by University of Michigan </td>
+    <td><a href="https://www.coursera.org/account/accomplishments/certificate/DL4UYK4ECFZ5">Coursera</a></td>    
+    
+  </tr>
+  <tr>
+    <td>Career Paths for Software Development </td>
+    <td>An online course in Patika.dev</td>
+    <td><a href="https://app.patika.dev/certificates/YLznNSZ">Patika</a></td>    
+    
+  </tr>
+  
+  <tr>
+    <td>Enuygun PHP Bootcamp</td>
+    <td>A bootcamp offered by Patika.dev</td>
+    <td><a href="https://verified.sertifier.com/en/verify/22211095776243">Patika</a></td>    
+    
+  </tr>
+ <tr>
+    <td>Building Web Applications in PHP</td>
+    <td>An online non-credit course authorized by University of Michigan</td>
+    <td><a href="https://www.coursera.org/account/accomplishments/certificate/X9KDLG93GZ8T">Coursera</a></td>    
+    
+  </tr>
+   <tr>
+    <td>Introduction to Structured Query Language (SQL)</td>
+    <td>An online non-credit course authorized by University of Michigan</td>
+    <td><a href="https://www.coursera.org/account/accomplishments/certificate/ATANEHFUHJCV">Coursera</a></td>    
+    
+  </tr>
+  <tr>
+    <td>Building Database Applications in PHP</td>
+    <td>An online non-credit course authorized by University of Michigantd>
+    <td><a href="https://www.coursera.org/account/accomplishments/verify/SWTBKALS8XXK">Coursera</a></td>    
+    
+  </tr>
+  
+  <tr>
+    <td>Introduction to HTML5</td>
+    <td>An online non-credit course authorized by University of Michigan</td>
+    <td><a href="https://www.coursera.org/account/accomplishments/certificate/PPMJ5GC7V2S7">Coursera</a></td>    
+    
+  </tr>
+
+<tr>
+    <td>Introduction to CSS3</td>
+    <td>An online non-credit course authorized by University of Michigan</td>
+    <td><a href="https://www.coursera.org/account/accomplishments/certificate/MNCVNLG6MKCK">Coursera</a></td>    
+    
+  </tr>
+  
+ 
+</table>
 
