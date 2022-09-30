@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gazmor</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-<p align="center"><img src="https://avatars.githubusercontent.com/u/22417510?s=400&u=a1cb0db17cef0ce4cd16099e8c9542d80d97f7b7&v=4" alt="Gazi profile photo" style="width:200px;height:200px;" /></p>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eaglegazii" alt="eaglegazii" /></a> </p>
 
 
