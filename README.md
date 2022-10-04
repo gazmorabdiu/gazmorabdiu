@@ -99,10 +99,24 @@
     
   </tr>
   
+ 
+  
   <tr>
     <td>Enuygun PHP Bootcamp</td>
     <td>A bootcamp offered by Patika.dev</td>
     <td><a href="https://verified.sertifier.com/en/verify/22211095776243">Patika</a></td>    
+    
+  </tr>
+   <tr>
+    <td>Doctrine, Symfony & the Database</td>
+    <td>A bootcamp offered by symfonyCasts</td>
+    <td><a href="https://symfonycasts.com/certificates/776CEBA4C131">SymfonyCasts</a></td>    
+    
+  </tr>
+   <tr>
+    <td>Charming Development in Symfony5</td>
+    <td>A bootcamp offered by symfonyCasts</td>
+    <td><a href="https://symfonycasts.com/certificates/FB8BBE84C127">SymfonyCasts</a></td>    
     
   </tr>
  <tr>
