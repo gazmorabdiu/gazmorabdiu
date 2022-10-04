@@ -92,13 +92,7 @@
     <td><a href="https://www.coursera.org/account/accomplishments/certificate/DL4UYK4ECFZ5">Coursera</a></td>    
     
   </tr>
-  <tr>
-    <td>Career Paths for Software Development </td>
-    <td>An online course in Patika.dev</td>
-    <td><a href="https://app.patika.dev/certificates/YLznNSZ">Patika</a></td>    
-    
-  </tr>
-  
+ 
  
   
   <tr>
@@ -119,6 +113,13 @@
     <td><a href="https://symfonycasts.com/certificates/FB8BBE84C127">SymfonyCasts</a></td>    
     
   </tr>
+                                                                     <tr>
+    <td>Career Paths for Software Development </td>
+    <td>An online course in Patika.dev</td>
+    <td><a href="https://app.patika.dev/certificates/YLznNSZ">Patika</a></td>    
+    
+  </tr>
+  
  <tr>
     <td>Building Web Applications in PHP</td>
     <td>An online non-credit course authorized by University of Michigan</td>
