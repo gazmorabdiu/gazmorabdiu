@@ -82,7 +82,7 @@
      <tr>
     <td>Node.js, Express, MongoDB & More: The Complete Bootcamp 2023 </td>
     <td>An online course in udemy by Jonas Schmedtmann</td>
-    <td><a href="https://www.udemy.com/certificate/UC-1fc30246-2ad2-42b7-8ce5-b1036bac7371/">Udemy</a></td>    
+    <td><a href="https://www.udemy.com/certificate/UC-730d092d-451e-40b8-b3c9-70c316669777">Udemy</a></td>    
     
   </tr>
    <tr>
