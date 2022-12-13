@@ -79,16 +79,14 @@
     <th>Description</th> 
     <th>Link</th>    
   </tr>
-                <tr>
+   <tr>
     <td>Clean Code</td>
     <td>An online course in udemy by Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller</td>
     <td><a href="https://www.udemy.com/certificate/UC-0b741954-fb42-404c-aeb3-e43a4f322522/">Udemy</a></td>    
     
-  </tr>
-                
-                
+  </tr>                
      <tr>
-    <td>Node.js, Express, MongoDB & More: The Complete Bootcamp 2023 </td>
+    <td>Node.js, Express, MongoDB and More: The Complete Bootcamp 2023 </td>
     <td>An online course in udemy by Jonas Schmedtmann</td>
     <td><a href="https://www.udemy.com/certificate/UC-730d092d-451e-40b8-b3c9-70c316669777">Udemy</a></td>    
     
