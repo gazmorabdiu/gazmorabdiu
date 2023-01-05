@@ -145,7 +145,7 @@
   </tr>
   <tr>
     <td>Building Database Applications in PHP</td>
-    <td>An online non-credit course authorized by University of Michigantd>
+    <td>An online non-credit course authorized by University of Michigant
     <td><a href="https://www.coursera.org/account/accomplishments/verify/SWTBKALS8XXK">Coursera</a></td>    
     
   </tr>
