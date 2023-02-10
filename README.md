@@ -79,6 +79,13 @@
     <th>Description</th> 
     <th>Link</th>    
   </tr>
+                   <tr>
+    <td> The Git & Github Bootcamp </td>
+    <td>An online course in udemy by Academind by  Colt Steele</td>
+    <td><a href="https://www.udemy.com/certificate/UC-37091e7c-d48c-43a6-b172-6506e4d7fe75/">Udemy</a></td>    
+    
+  </tr>   
+                
    <tr>
     <td>Clean Code</td>
     <td>An online course in udemy by Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller</td>
