@@ -25,11 +25,12 @@
   
   
 
-<h3 align="left">Frameworks, Platforms & Libraries:</h3>
+<h3 align="left">Frameworks, Platforms, Libraries & Services:</h3>
 
 
 
- <p align="left">  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1024px-Node.js_logo.svg.png" alt="nodejs" width="60" height="40"/> </a>
+ <p align="left">  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://scontent.fprn13-1.fna.fbcdn.net/v/t39.30808-6/269757833_4570037896366873_6631612107011390481_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=K6OXlbcd5SIAX_73Zka&_nc_ht=scontent.fprn13-1.fna&oh=00_AfBsu4toCXKXcSeeg7FnDJEt5v4K8506xFXhAAgeMp_GxA&oe=65BBF6BF" alt="aws-service" width="60" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1024px-Node.js_logo.svg.png" alt="nodejs" width="60" height="50"/> </a>
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJs" width="60" height="40"/> </a>
    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  <a href="https://symfony.com/doc/current/index.html" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.png" alt="symfony" width="40" height="40"/> </a>   <a href="https://laravel.com/docs/9.x/installation" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" alt="laravel" width="40" height="40"/> </a> <a href="https://docs.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="anaconda" width="60" height="40"/> </a>  <a href="https://docs.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1920px-Npm-logo.svg.png" alt="npm" width="60" height="40"/> </a> <a href="https://getcomposer.org/doc/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-composer-transparent.png" alt="composer" width="40" height="40"/> </a> <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="bootstrap" width="50" height="40"/> </a> 
   
