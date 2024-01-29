@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working as **NODEJS Developer**
 
-- 💬 Ask me about **php, javascript, nodeJs, java**
+- 💬 Ask me about **javascript, nodeJS,nestJS, java**
 
 - 📫 How to reach me **gazmorabdiu@hotmail.com**
 
