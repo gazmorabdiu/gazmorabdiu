@@ -82,9 +82,16 @@
     <th>Description</th> 
     <th>Link</th>    
   </tr>
-                   <tr>
-    <td> The Git & Github Bootcamp </td>
-    <td>An online course in udemy by Academind by  Colt Steele</td>
+ <tr>
+    <td>AWX Cloud Practitioner</td>
+    <td>2-day education programme on the AWS Cloud Practitioner by EX-CITE</td>
+    <td><a href="https://www.linkedin.com/in/gazmorabdiu/details/certifications/1706542099004/single-media-viewer/?type=DOCUMENT&profileId=ACoAACWElvcBAcUtfDNh-aaXKQ7HQjHgPRr7fCY">Linkedin</a></td>    
+    
+  </tr> 
+
+  <tr>
+    <td>The Git & Github Bootcamp </td>
+    <td>An online course in udemy by Academind by Colt Steele</td>
     <td><a href="https://www.udemy.com/certificate/UC-37091e7c-d48c-43a6-b172-6506e4d7fe75/">Udemy</a></td>    
     
   </tr>   
