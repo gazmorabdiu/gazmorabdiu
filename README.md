@@ -82,6 +82,24 @@
     <th>Description</th> 
     <th>Link</th>    
   </tr>
+      <tr>
+    <td>The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert</td>
+    <td>This certificate above verifies that Gazmor Abdiu successfully completed the course The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert on 03/26/2024 as taught by Colt Steele on Udemy.</td>
+    <td><a href="https://www.udemy.com/certificate/UC-e0d47776-17b4-4c5a-9b0d-0fb726b45829">Udemy</a></td>    
+    
+  </tr> 
+    <tr>
+    <td>Rest API (Intermediate)</td>
+    <td>It covers topics like getting data from an API and process using parameters or paging.</td>
+    <td><a href="https://www.hackerrank.com/certificates/012fecccaf6c">HackerRank</a></td>    
+    
+  </tr> 
+   <tr>
+    <td>SQL (Basic)</td>
+    <td>It includes simple queries, relationships, and aggregators.</td>
+    <td><a href="https://www.hackerrank.com/certificates/ca58bb1da800">HackerRank</a></td>    
+    
+  </tr> 
  <tr>
     <td>AWX Cloud Practitioner</td>
     <td>2-day education programme on the AWS Cloud Practitioner by EX-CITE</td>
