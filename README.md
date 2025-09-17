@@ -85,57 +85,57 @@
       <tr>
     <td>The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert</td>
     <td>This certificate above verifies that Gazmor Abdiu successfully completed the course The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert on 03/26/2024 as taught by Colt Steele on Udemy.</td>
-    <td><a href="https://www.udemy.com/certificate/UC-e0d47776-17b4-4c5a-9b0d-0fb726b45829">Udemy</a></td>    
+    <td><a href="https://www.udemy.com/certificate/UC-e0d47776-17b4-4c5a-9b0d-0fb726b45829" target="_blank">Udemy</a></td>    
     
   </tr> 
     <tr>
     <td>Rest API (Intermediate)</td>
     <td>It covers topics like getting data from an API and process using parameters or paging.</td>
-    <td><a href="https://www.hackerrank.com/certificates/012fecccaf6c">HackerRank</a></td>    
+    <td><a href="https://www.hackerrank.com/certificates/012fecccaf6c" target="_blank">HackerRank</a></td>    
     
   </tr> 
    <tr>
     <td>SQL (Basic)</td>
     <td>It includes simple queries, relationships, and aggregators.</td>
-    <td><a href="https://www.hackerrank.com/certificates/ca58bb1da800">HackerRank</a></td>    
+    <td><a href="https://www.hackerrank.com/certificates/ca58bb1da800" target="_blank">HackerRank</a></td>    
     
   </tr> 
  <tr>
     <td>AWX Cloud Practitioner</td>
     <td>2-day education programme on the AWS Cloud Practitioner by EX-CITE</td>
-    <td><a href="https://www.linkedin.com/in/gazmorabdiu/details/certifications/1706542099004/single-media-viewer/?type=DOCUMENT&profileId=ACoAACWElvcBAcUtfDNh-aaXKQ7HQjHgPRr7fCY">Linkedin</a></td>    
+    <td><a href="https://www.linkedin.com/in/gazmorabdiu/details/certifications/1706542099004/single-media-viewer/?type=DOCUMENT&profileId=ACoAACWElvcBAcUtfDNh-aaXKQ7HQjHgPRr7fCY" target="_blank">Linkedin</a></td>    
     
   </tr> 
 
   <tr>
     <td>The Git & Github Bootcamp </td>
     <td>An online course in udemy by Academind by Colt Steele</td>
-    <td><a href="https://www.udemy.com/certificate/UC-37091e7c-d48c-43a6-b172-6506e4d7fe75/">Udemy</a></td>    
+    <td><a href="https://www.udemy.com/certificate/UC-37091e7c-d48c-43a6-b172-6506e4d7fe75/" target="_blank">Udemy</a></td>    
     
   </tr>   
                 
    <tr>
     <td>Clean Code</td>
     <td>An online course in udemy by Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller</td>
-    <td><a href="https://www.udemy.com/certificate/UC-0b741954-fb42-404c-aeb3-e43a4f322522/">Udemy</a></td>    
+    <td><a href="https://www.udemy.com/certificate/UC-0b741954-fb42-404c-aeb3-e43a4f322522/" target="_blank">Udemy</a></td>    
     
   </tr>                
      <tr>
     <td>Node.js, Express, MongoDB and More: The Complete Bootcamp 2023 </td>
     <td>An online course in udemy by Jonas Schmedtmann</td>
-    <td><a href="https://www.udemy.com/certificate/UC-730d092d-451e-40b8-b3c9-70c316669777">Udemy</a></td>    
+    <td><a href="https://www.udemy.com/certificate/UC-730d092d-451e-40b8-b3c9-70c316669777" target="_blank">Udemy</a></td>    
     
   </tr>
    <tr>
     <td>The Modern Javascript Bootcamp Course (2022) </td>
     <td>An online course in udemy by Colt Steele, Stephen Grider</td>
-    <td><a href="https://www.udemy.com/certificate/UC-1fc30246-2ad2-42b7-8ce5-b1036bac7371/">Udemy</a></td>    
+    <td><a href="https://www.udemy.com/certificate/UC-1fc30246-2ad2-42b7-8ce5-b1036bac7371/" target="_blank">Udemy</a></td>    
     
   </tr>
      <tr>
     <td>Interactivity with JavaScript</td>
     <td>An online non-credit course authorized by University of Michigan </td>
-    <td><a href="https://www.coursera.org/account/accomplishments/certificate/DL4UYK4ECFZ5">Coursera</a></td>    
+    <td><a href="https://www.coursera.org/account/accomplishments/certificate/DL4UYK4ECFZ5" target="_blank">Coursera</a></td>    
     
   </tr>
  
@@ -144,58 +144,58 @@
   <tr>
     <td>Enuygun PHP Bootcamp</td>
     <td>A bootcamp offered by Patika.dev</td>
-    <td><a href="https://verified.sertifier.com/en/verify/22211095776243">Patika</a></td>    
+    <td><a href="https://verified.sertifier.com/en/verify/22211095776243" target="_blank">Patika</a></td>    
     
   </tr>
    <tr>
     <td>Doctrine, Symfony & the Database</td>
     <td>A bootcamp offered by symfonyCasts</td>
-    <td><a href="https://symfonycasts.com/certificates/776CEBA4C131">SymfonyCasts</a></td>    
+    <td><a href="https://symfonycasts.com/certificates/776CEBA4C131" target="_blank">SymfonyCasts</a></td>    
     
   </tr>
    <tr>
     <td>Charming Development in Symfony5</td>
     <td>A bootcamp offered by symfonyCasts</td>
-    <td><a href="https://symfonycasts.com/certificates/FB8BBE84C127">SymfonyCasts</a></td>    
+    <td><a href="https://symfonycasts.com/certificates/FB8BBE84C127" target="_blank">SymfonyCasts</a></td>    
     
   </tr>
                                                                      <tr>
     <td>Career Paths for Software Development </td>
     <td>An online course in Patika.dev</td>
-    <td><a href="https://app.patika.dev/certificates/YLznNSZ">Patika</a></td>    
+    <td><a href="https://app.patika.dev/certificates/YLznNSZ" target="_blank">Patika</a></td>    
     
   </tr>
   
  <tr>
     <td>Building Web Applications in PHP</td>
     <td>An online non-credit course authorized by University of Michigan</td>
-    <td><a href="https://www.coursera.org/account/accomplishments/certificate/X9KDLG93GZ8T">Coursera</a></td>    
+    <td><a href="https://www.coursera.org/account/accomplishments/certificate/X9KDLG93GZ8T" target="_blank">Coursera</a></td>    
     
   </tr>
    <tr>
     <td>Introduction to Structured Query Language (SQL)</td>
     <td>An online non-credit course authorized by University of Michigan</td>
-    <td><a href="https://www.coursera.org/account/accomplishments/certificate/ATANEHFUHJCV">Coursera</a></td>    
+    <td><a href="https://www.coursera.org/account/accomplishments/certificate/ATANEHFUHJCV" target="_blank">Coursera</a></td>    
     
   </tr>
   <tr>
     <td>Building Database Applications in PHP</td>
     <td>An online non-credit course authorized by University of Michigant
-    <td><a href="https://www.coursera.org/account/accomplishments/verify/SWTBKALS8XXK">Coursera</a></td>    
+    <td><a href="https://www.coursera.org/account/accomplishments/verify/SWTBKALS8XXK" target="_blank">Coursera</a></td>    
     
   </tr>
   
   <tr>
     <td>Introduction to HTML5</td>
     <td>An online non-credit course authorized by University of Michigan</td>
-    <td><a href="https://www.coursera.org/account/accomplishments/certificate/PPMJ5GC7V2S7">Coursera</a></td>    
+    <td><a href="https://www.coursera.org/account/accomplishments/certificate/PPMJ5GC7V2S7" target="_blank">Coursera</a></td>    
     
   </tr>
 
 <tr>
     <td>Introduction to CSS3</td>
     <td>An online non-credit course authorized by University of Michigan</td>
-    <td><a href="https://www.coursera.org/account/accomplishments/certificate/MNCVNLG6MKCK">Coursera</a></td>    
+    <td><a href="https://www.coursera.org/account/accomplishments/certificate/MNCVNLG6MKCK" target="_blank">Coursera</a></td>    
     
   </tr>
   
